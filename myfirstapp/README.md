@@ -1,6 +1,6 @@
 # myfirstapp
 
-<img src="assets/images/myfirstapp.png" width="128"/>
+<img src="assets/images/myfirstapp.png" />
 
 A new Flutter project.
 
